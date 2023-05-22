@@ -1,0 +1,160 @@
+
+
+/* h5 {
+    margin-top: 250px;
+    margin-left: 150px;
+    color: var(--primary-color);;
+    letter-spacing: 1.5px;
+  }
+  
+  h1 {
+    font-size: 50px;
+    text-align: center;
+    color: var(--primary-color);;
+    margin-top: 300px;
+    letter-spacing: 1.5px;
+  
+  }
+   */
+  @media only screen and (max-width: 1000px) {
+    h1 {
+          text-align: center;
+      font-size: 30px;
+      margin-left: 100px;
+    }
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    .services {
+      margin-top: 800px;
+  
+    }
+  }
+
+  .services{
+    margin-top: 400px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+  }
+
+  @media only screen and (max-width: 1000px) {
+    .services {
+        margin-top: 250px;
+    margin-left: -50px;
+      
+  
+    }
+  }
+
+  
+  
+  .container3 {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 1200px;
+    align-items: center;
+    padding-top: 50px;
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    .container3 {
+      display: block;
+         margin: auto;
+      width: 10px;
+      height: 100%;
+      align-items: start;
+      padding-top: 50px;
+    }
+  }
+  
+  .box {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    background: linear-gradient(145deg,
+        #e6e6e6 0,
+        #ffffff,
+      );
+    border-radius: 14px;
+    box-shadow: 8px 8px 16px #d1d1d1,
+      -8px -8px 16px #ffffff;
+    padding: 50px;
+    cursor: pointer;
+    animation:
+      1s ease-in-out 0s 1 slideInFromRight;
+    margin: 0 auto;
+  }
+  @media only screen and (max-width: 1000px) {
+    .box {
+      width: 200px;
+      height: 200px;
+      ;
+      padding: 10px;
+      background-size: contain;
+      display: block;
+      margin: 50px auto;
+      align-items: start;
+  
+    }
+  }
+  @keyframes slideInFromRight {
+    0% {
+      transform: translateX(100%);
+    }
+  
+    100% {
+      transform: translateX(0);
+    }
+  }
+  .box:hover {
+    box-shadow: 0 0 20px #9ca4ab;
+    transform: translateY(-5px);
+  }
+  
+  .icons {
+    font-size: 50px;
+    margin-top: 10px;
+    color: var(--primary-color);;
+  }
+  
+  .box:hover .icons {
+    margin-top: 0;
+    color: #fff;
+  }
+  
+  .box h2 {
+    font-weight: 600;
+    margin-top: 20px;
+  }
+  @media only screen and (max-width: 1000px) {
+    .box h2 {
+      font-size: 15px;
+      background-size: contain;
+      display: block;
+      margin: 30px auto;
+    }
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    .box p {
+  
+      font-size: 15px;
+      font-weight: normal;
+      display: block;
+    }
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    .icons {
+      font-size: 80px;
+      margin-top: 30px;
+    }
+  }
+  
+  .my-icon{
+    font-size: 20px;
+    color: #245b8c;
+    margin-top: 15px;
+  }

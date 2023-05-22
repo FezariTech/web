@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  transition: 0.3s;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+  width: 98.9vw;
+  height: 100vh;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('../assets/images/gemi3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: top center;
+}
+
+@media only screen and (max-width: 1000px) {
+  body {
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    margin-top:30px;
+  }
+}
+
+
+
+/* 
+@media only screen and (max-width: 1000px) {
+  body {
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+    margin-top: 100px;
+  }
+} */
+

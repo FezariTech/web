@@ -1,6 +1,6 @@
 
-
-/* h5 {
+/*
+ h5 {
     margin-top: 250px;
     margin-left: 150px;
     color: var(--primary-color);;
@@ -15,7 +15,8 @@
     letter-spacing: 1.5px;
   
   }
-   */
+  */
+
   @media only screen and (max-width: 1000px) {
     h1 {
           text-align: center;
@@ -46,8 +47,6 @@
   
     }
   }
-
-  
   
   .container3 {
     display: flex;
@@ -86,6 +85,7 @@
       1s ease-in-out 0s 1 slideInFromRight;
     margin: 0 auto;
   }
+
   @media only screen and (max-width: 1000px) {
     .box {
       width: 200px;

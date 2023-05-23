@@ -9,18 +9,18 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 const OpenPositions = () => {
   const positions = [
     {
-      title: "Web Developer",
-      location: "New York",
+      title: "Gömülü Yazılım Mühendisi",
+      location: "Trabzon",
       description: "We are looking for an experienced web developer to join our team in New York.",
     },
     {
-      title: "Marketing Manager",
-      location: "San Francisco",
+      title: "Sosyal Medya Uzmanı",
+      location: "Trabzon",
       description: "We are seeking a highly motivated Marketing Manager to help drive our business forward.",
     },
     {
-      title: "Graphic Designer",
-      location: "Chicago",
+      title: "Grafik Tasarımcı",
+      location: "Trabzon",
       description: "We are looking for a talented Graphic Designer to join our growing team in Chicago.",
     },
   ];

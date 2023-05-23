@@ -29,19 +29,19 @@ margin: 60px;
   .position-title {
     font-size: 24px;
     margin-top: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
   }
   
   .position-location {
     font-size: 16px;
     color: #999;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     margin-bottom: 10px;
   }
   
   .position-description {
     font-size: 15px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
   }
   
   .apply-button {
@@ -54,8 +54,7 @@ margin: 60px;
     cursor: pointer;
     margin-top: 10px;
     border: 1px solid #245b8c;
-
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
 
   }
   

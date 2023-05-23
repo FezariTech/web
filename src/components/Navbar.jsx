@@ -9,32 +9,33 @@ function Navbar() {
   }
 
   return (
-    <nav className="navbar">
-      <div id="logo">
-        <h3 className='logo'><a>Fezari</a></h3>
-      </div>
-      <div id="options">
-        <ul className={isOpen ? "nav-links open" : "nav-links"} id="menu">
-          <li><a href="#about">Hakkımızda</a></li>
-          <li><a href="#services">Neler Yapıyoruz</a></li>
-          <li><a href="#team">Bize Katılmak İster Misin</a></li>
-          <li><a href="#contact">İletişim</a></li>
-          <li>
-            <div className="social-media">
-              <a href="#"><i className="fab fa-facebook-f"></i></a>
-              <a href="#"><i className="fab fa-twitter"></i></a>
-              <a href="#"><i className="fab fa-instagram"></i></a>
-              <a href="#"><i className="fab fa-linkedin-in"></i></a>
-            </div>
-          </li>
-        </ul>
-        <div id="menu-toggle" onClick={toggleMenu}>
-          <div className={isOpen ? "open" : ""}></div>
-          <div className={isOpen ? "open" : ""}></div>
-          <div className={isOpen ? "open" : ""}></div>
+<nav className="navbar">
+  <div id="logo">
+    <h3 className='logo'><a href="/">FezariTech</a></h3>
+  </div>
+  <div id="options">
+    <ul className={isOpen ? "nav-links open" : "nav-links"} id="menu">
+      <li><a href="#about">Hakkımızda</a></li>
+      <li><a href="#services">Neler Yapıyoruz?</a></li>
+      <li><a href="#team">Bize Katılmak İster misiniz?</a></li>
+      <li><a href="#contact">İletişim</a></li>
+      <li>
+        <div className="social-media">
+          <a href="https://www.facebook.com"><i className="fab fa-facebook-f"></i></a>
+          <a href="https://www.twitter.com"><i className="fab fa-twitter"></i></a>
+          <a href="https://www.instagram.com"><i className="fab fa-instagram"></i></a>
+          <a href="https://www.linkedin.com"><i className="fab fa-linkedin-in"></i></a>
         </div>
-      </div>
-    </nav>
+      </li>
+    </ul>
+    <div id="menu-toggle" onClick={toggleMenu}>
+      <div className={isOpen ? "open" : ""}></div>
+      <div className={isOpen ? "open" : ""}></div>
+      <div className={isOpen ? "open" : ""}></div>
+    </div>
+  </div>
+</nav>
+
   );
 }
 

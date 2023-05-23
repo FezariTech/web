@@ -15,12 +15,9 @@ function Partners() {
       <div class="partners-container">
         <ul class="partner-list">
         
-        
-          <li><img src={TeknofestLogo}  alt="Partner 11 Logo"/></li>
-          <li><img src= {KtuLogo} alt="Partner 2 Logo"/></li>
+          <li><img src= {KtuLogo} alt="Partner 1 Logo"/></li>
           <li><img src= {TubitakLogo} alt="Partner 2 Logo"/></li>
-          <li><img src= {TeknofestLogo} alt="Partner 2 Logo"/></li>
-
+          <li><img src={TeknofestLogo}  alt="Partner 3 Logo"/></li>
 
           {/* <li style={{backgroundImage: "url('./images/Teknofest_logo.png')" , width: '300px', height: '225px'}}></li> */}
           {/* <li style={{backgroundImage: `url(${require('../../assets/images/Teknofest_logo.png') })`, width: '300px', height: '225px'}}></li> */}

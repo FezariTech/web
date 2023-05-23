@@ -3,24 +3,23 @@ import React from 'react';
 
 function Footer() {
   return (
-    
-    
-
-    <section class="footer">
+    <section className="footer">
       <div class="social">
-        <a href="#"><i class="fab fa-facebook-f"></i></a>
-        <a href="#"><i class="fab fa-twitter"></i></a>
-        <a href="#"><i class="fab fa-instagram"></i></a>
-        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+      <a href="https://www.facebook.com"><i className="fab fa-facebook-f"></i></a>
+      <a href="https://www.twitter.com"><i className="fab fa-twitter"></i></a>
+      <a href="https://www.instagram.com"><i className="fab fa-instagram"></i></a>
+      <a href="https://www.linkedin.com"><i className="fab fa-linkedin-in"></i></a>
       </div>
-      <ul class="list">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Contact</a></li>
+
+      <ul className="list">
+        <li><a href='anaSayfa'>Ana Sayfa</a></li>
+        <li><a href='hakkimizda'>Hakkımızda</a></li>
+        <li><a href='hizmetler'>Hizmetlerimiz</a></li>
+        <li><a href='iletisim'>İletişim</a></li>
       </ul>
+
       <p class="copyright">
-        &copy; 2021 | All rights reserved
+        &copy; 2023 | Tüm hakları saklıdır.
       </p>
     </section>
   );

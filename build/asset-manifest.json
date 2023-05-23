@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0757c48.css",
+    "main.js": "/static/js/main.0f1da49f.js",
+    "static/js/787.39808b02.chunk.js": "/static/js/787.39808b02.chunk.js",
+    "static/media/gemi3.jpg": "/static/media/gemi3.91fcb271a9b05265910c.jpg",
+    "static/media/TÜBİTAK_logo.svg.png": "/static/media/TÜBİTAK_logo.svg.6dd099d09b00942feca1.png",
+    "static/media/Karadeniz_Technical_University_logo.svg.png": "/static/media/Karadeniz_Technical_University_logo.svg.75083970f500b7ae2df7.png",
+    "static/media/Teknofest_logo.png": "/static/media/Teknofest_logo.1ca654e7c02cca645ad6.png",
+    "index.html": "/index.html",
+    "main.b0757c48.css.map": "/static/css/main.b0757c48.css.map",
+    "main.0f1da49f.js.map": "/static/js/main.0f1da49f.js.map",
+    "787.39808b02.chunk.js.map": "/static/js/787.39808b02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0757c48.css",
+    "static/js/main.0f1da49f.js"
+  ]
+}

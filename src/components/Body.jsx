@@ -25,12 +25,9 @@ function Body1() {
         </a>
       </div>
 
-      
     </div>
 
 
-
-   
   );
 }
 

@@ -9,8 +9,8 @@ function Body1() {
         <div class="description">
         <p>FezariTech, tatlı ve tuzlu sucul ortamlarda ölçüm yapma, veri toplama, su altı haritalama için birçok kurum ve kuruluş ile çalışmalar yapmaktadır. 
           Yüksek maliyetli gözlem ve izleme faaliyetlerini otonom İDA teknolojilerimiz ile azaltıyor, zaman ve iş gücü tasarrufu sağlıyoruz. </p>
-            <button class="rounded-shadow-button"> Keşfet...</button>      
-      </div>
+            {/*<button class="rounded-shadow-button"> Keşfet...</button> */}    
+        </div>
       </div>
       <div id="scroll-icon">
         <a href="#section1">

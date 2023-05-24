@@ -1,6 +1,6 @@
 
  h5 {
-    margin-top: 250px;
+    margin-top: 150px;
     margin-left: 150px;
     color: var(--primary-color);;
     letter-spacing: 1.5px;
@@ -10,14 +10,14 @@
     font-size: 50px;
     text-align: center;
     color: var(--primary-color);;
-    margin-top: 300px;
+    margin-top: 200px;
     letter-spacing: 1.5px;
   
   }
 
   @media only screen and (max-width: 1000px) {
     h1 {
-          text-align: center;
+      text-align: center;
       font-size: 30px;
       margin-left: 100px;
     }
@@ -26,7 +26,6 @@
   @media only screen and (max-width: 1000px) {
     .services {
       margin-top: 800px;
-  
     }
   }
 
@@ -39,7 +38,7 @@
 
   @media only screen and (max-width: 1000px) {
     .services {
-        margin-top: 250px;
+        margin-top: 50px;
     margin-left: -50px;
     }
   }

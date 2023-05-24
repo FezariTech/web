@@ -1,9 +1,8 @@
-// import logo from './logo.svg';
 import './App.css';
+import React from 'react';
 import Navbar from './components/Navbar';
 import Body1 from './components/Body';
 import Boxes from './components/boxes';
-//import Slideshow from './components/carousel';
 import Partners from './components/partners';
 import Form from './components/Form';
 import Footer from './components/Footer';
@@ -20,7 +19,7 @@ function App() {
       <Boxes></Boxes>
       <Form></Form>
       <OpenPositions></OpenPositions>
-      
+
     <Partners></Partners>
     <Footer></Footer>
 

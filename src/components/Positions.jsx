@@ -1,6 +1,6 @@
 import React from "react";
 import '../styles/positions.css';
-import { faClock, faCoffee, faWater } from '@fortawesome/free-solid-svg-icons';
+import { faClock} from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 
@@ -33,7 +33,7 @@ const OpenPositions = () => {
           <h3 className="position-title">{position.title}</h3>
           <p className="position-location">{position.location}</p>
           <p className="position-description">{position.description}</p>
-          <button className="apply-button" onClick={() => window.location.href='#contact'}>Apply Now</button>
+          <button className="apply-button" onClick={() => window.location.href='#contact'}>Başvuru</button>
 
         </div>
       ))}

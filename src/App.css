@@ -16,7 +16,7 @@ body {
 
 body {
   font-family: Arial, sans-serif;
-  background-image: url('../assets/images/gemi3.jpg');
+  background-image: url('../src/assets/images/gemi3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;

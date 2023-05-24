@@ -26,7 +26,7 @@ function Form() {
 
   return (
     <div id="contact">
-      <h2 class="formtitle">Bizimle iletişime geçmek ister misiniz?</h2>
+      <h2 class="formtitle">İletişim kurabilirsiniz..</h2>
       <form  onSubmit={sendMail}>
         <div class="form-group">
           <label for="name">Ad ve Soyad</label>

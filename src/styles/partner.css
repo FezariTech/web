@@ -4,7 +4,7 @@
     font-size: 25px;
     font-weight: 300;
     color: var(--primary-color);;
-    margin-top: 70px;
+    margin-top: 10px;
     
   }
 
@@ -20,20 +20,20 @@
 
   
   .partners-container {
-    margin-top: 50px;
+    margin-top: 10px;
     margin-left: 150px;
     margin-right: 150px;
-    margin-bottom: 100px;
+    margin-bottom: 10px;
     overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
   }
   
   .partners-container {
-    margin-top: 50px;
+    margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 100px;
+    margin-bottom: 10px;
     overflow: hidden;
   }
   
@@ -63,7 +63,7 @@
   }
   
   .partner-list img {
-    width: 170px;
+    width: 120px;
   }
   
  @media (max-width: 1000px) {
@@ -81,7 +81,7 @@
 
   .partner-list img {
     width: 100%;
-    max-width: 150px;
+    max-width: 120px;
   }
 }
 

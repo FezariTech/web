@@ -16,16 +16,12 @@ function App() {
     <div className="App">
 
       <Navbar></Navbar>
-
       <Body1></Body1>
       <Boxes></Boxes>
       <Form></Form>
-
       <OpenPositions></OpenPositions>
-
-
+      
     <Partners></Partners>
-
     <Footer></Footer>
 
     </div>

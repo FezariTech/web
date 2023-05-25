@@ -1,9 +1,9 @@
 {
   "name": "fezari-app",
-  "homepage": "https://tayfunbekar.github.io/web/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "homepage": "https://tayfunbekar.github.io/web/",
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
     "@fortawesome/react-fontawesome": "^0.2.0",

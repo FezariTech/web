@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/web/static/media/gemi3.eeb229d9.jpg"
   },
   {
-    "revision": "c9781bd80c065bb5702580b58e525d77",
+    "revision": "34233d6e0be73daf874a69a2b99f80e4",
     "url": "/web/index.html"
   }
 ];

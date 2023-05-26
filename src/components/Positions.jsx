@@ -11,18 +11,25 @@ const OpenPositions = () => {
     {
       title: "Gömülü Yazılım Mühendisi",
       location: "Trabzon",
-      description: "We are looking for an experienced web developer to join our team in New York.",
+      description: "C, C++ programlama dillerine hakim Qt Framework tecrübesi olan bilgisayar veya yazılım mühendisleri arıyoruz.",
     },
     {
       title: "Sosyal Medya Uzmanı",
-      location: "Trabzon",
-      description: "We are seeking a highly motivated Marketing Manager to help drive our business forward.",
+      location: "Uzaktan çalışabilir.",
+      description: "Şirketimizin sosyal medya hesaplarını etkin biçimde yönetebilecek, reklamcılık tecrübesi olan uzmanlar arıyoruz.",
     },
     {
       title: "Grafik Tasarımcı",
-      location: "Trabzon",
-      description: "We are looking for a talented Graphic Designer to join our growing team in Chicago.",
+      location: "Uzaktan çalışabilir.",
+      description: "Şirketimizin reklam, web ve sosyal medya faaliyetlerinde kullanılacak içerik üreticileri arıyoruz.",
     },
+    {
+      title: "Mekatronik Mühendisi",
+      location: "Trabzon",
+      description: "Mekanik tasarım ve üretim süreçlerinde etkin rol alabilecek mekatronik mühendisleri arıyoruz.",
+    },
+
+
   ];
 
   return (

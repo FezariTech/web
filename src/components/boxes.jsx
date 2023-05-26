@@ -19,13 +19,13 @@ function Boxes() {
       <div class="box">
       <FontAwesomeIcon icon={faCoffee}  className="my-icon"/>
       <h2>Gerçek Zamanlı Veri</h2>
-        <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown ...</p>
+        <p>GSM ve yüksek bant genişlikli radyo iletişimiyle gerçek zamanlı veri aktarımı gerçekleştiriyoruz.</p>
         <ion-icon class="arrow" name="arrow-forward-outline"></ion-icon>
       </div>
       <div class="box">
       <FontAwesomeIcon icon={faWater}  className="my-icon"/>
       <h2>Su Altı Haritalama</h2>
-        <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown ...</p>
+        <p>Yüksek çözünürlüklü sonar haritalama yaparak 3 boyutlu haritalama yapıyoruz.</p>
         <ion-icon class="arrow" name="arrow-forward-outline"></ion-icon>
       </div>
     </div>

@@ -17,7 +17,7 @@ function Navbar() {
     <ul className={isOpen ? "nav-links open" : "nav-links"} id="menu">
       <li><a href="#about">Hakkımızda</a></li>
       <li><a href="#services">Neler Yapıyoruz?</a></li>
-      <li><a href="#team">Bize Katılmak İster misiniz?</a></li>
+      <li><a href="#open-positions">Bize Katılmak İster misiniz?</a></li>
       <li><a href="#contact">İletişim</a></li>
       <li>
         <div className="social-media">

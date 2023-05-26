@@ -1,7 +1,7 @@
 {
-  "main.css": "/web/static/css/main.dd38c215.chunk.css",
-  "main.js": "/web/static/js/main.c9a6d159.chunk.js",
-  "main.js.map": "/web/static/js/main.c9a6d159.chunk.js.map",
+  "main.css": "/web/static/css/main.4663d053.chunk.css",
+  "main.js": "/web/static/js/main.3819b487.chunk.js",
+  "main.js.map": "/web/static/js/main.3819b487.chunk.js.map",
   "static/js/1.a89266de.chunk.js": "/web/static/js/1.a89266de.chunk.js",
   "static/js/1.a89266de.chunk.js.map": "/web/static/js/1.a89266de.chunk.js.map",
   "static/js/2.ccb52c7e.chunk.js": "/web/static/js/2.ccb52c7e.chunk.js",
@@ -12,8 +12,8 @@
   "static/media/Karadeniz_Technical_University_logo.svg.png": "/web/static/media/Karadeniz_Technical_University_logo.svg.1adfdc1b.png",
   "static/media/TÜBİTAK_logo.svg.png": "/web/static/media/TÜBİTAK_logo.svg.88bcad12.png",
   "static/media/App.css": "/web/static/media/gemi3.eeb229d9.jpg",
-  "static/css/main.dd38c215.chunk.css.map": "/web/static/css/main.dd38c215.chunk.css.map",
+  "static/css/main.4663d053.chunk.css.map": "/web/static/css/main.4663d053.chunk.css.map",
   "index.html": "/web/index.html",
-  "precache-manifest.7f19a74505edd9d5862ab15d1f63b756.js": "/web/precache-manifest.7f19a74505edd9d5862ab15d1f63b756.js",
+  "precache-manifest.f69352a39d17630768c2aae22fdb3a13.js": "/web/precache-manifest.f69352a39d17630768c2aae22fdb3a13.js",
   "service-worker.js": "/web/service-worker.js"
 }

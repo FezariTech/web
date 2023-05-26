@@ -25,7 +25,7 @@ function Boxes() {
       <div class="box">
       <FontAwesomeIcon icon={faWater}  className="my-icon"/>
       <h2>Su Altı Haritalama</h2>
-        <p>Yüksek çözünürlüklü sonar haritalama yaparak 3 boyutlu haritalama yapıyoruz.</p>
+        <p>Yüksek çözünürlüklü sonar teknolojileriyle 3 boyutlu haritalama yapıyoruz.</p>
         <ion-icon class="arrow" name="arrow-forward-outline"></ion-icon>
       </div>
     </div>

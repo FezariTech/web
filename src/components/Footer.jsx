@@ -5,16 +5,16 @@ function Footer() {
   return (
     <section className="footer">
       <div class="social">
-      <a href="https://www.linkedin.com"><i className="fab fa-linkedin-in"></i></a>
       <a href="https://www.youtube.com"><i className="fab fa-youtube"></i></a>
+      <a href="https://www.linkedin.com"><i className="fab fa-linkedin-in"></i></a>
       <a href="https://www.instagram.com"><i className="fab fa-instagram"></i></a>
       </div>
 
       <ul className="list">
-        <li><a href='anaSayfa'>Ana Sayfa</a></li>
-        <li><a href='hakkimizda'>Hakkımızda</a></li>
-        <li><a href='hizmetler'>Hizmetlerimiz</a></li>
-        <li><a href='iletisim'>İletişim</a></li>
+        <li><a href='#home'>Ana Sayfa</a></li>
+        <li><a href='#about'>Hakkımızda</a></li>
+        <li><a href='#services'>Hizmetlerimiz</a></li>
+        <li><a href='#contact'>İletişim</a></li>
       </ul>
 
       <p class="copyright">

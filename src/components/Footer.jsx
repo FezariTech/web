@@ -16,6 +16,8 @@ function Footer() {
         <li><a href='#services'>Hizmetlerimiz</a></li>
         <li><a href='#contact'>İletişim</a></li>
       </ul>
+      <h5>Email: info@fezaritech.com </h5>
+
 
       <p class="copyright">
         &copy; 2023 | Tüm hakları saklıdır.

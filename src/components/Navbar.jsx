@@ -11,7 +11,9 @@ function Navbar() {
   return (
 <nav className="navbar">
   <div id="logo">
-    <h3 className='logo'><a href="/">FezariTech</a></h3>
+    <h3 className='logo'>
+      <a href="/" style={{ textDecoration: 'none', color: 'black' }}>FezariTech</a>
+      </h3>
   </div>
   <div id="options">
     <ul className={isOpen ? "nav-links open" : "nav-links"} id="menu">

@@ -23,11 +23,7 @@ const OpenPositions = () => {
       location: "Uzaktan çalışabilir.",
       description: "Şirketimizin reklam, web ve sosyal medya faaliyetlerinde kullanılacak içerik üreticileri arıyoruz.",
     },
-    {
-      title: "Mekatronik Mühendisi",
-      location: "Trabzon",
-      description: "Mekanik tasarım ve üretim süreçlerinde etkin rol alabilecek mekatronik mühendisleri arıyoruz.",
-    },
+    
 
 
   ];

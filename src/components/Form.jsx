@@ -7,21 +7,36 @@ function Form() {
   function sendMail(e) {
     e.preventDefault();
   
-    emailjs.send('service_j9syosu', 'template_y3xwvpb', {
-      from_name: e.target.name.value,
-      from_email: e.target.email.value,
-      message: e.target.message.value,
-    }, 'MkEHryb1TJfzXGljg')
+    const name = e.target.name.value;
+    const email = e.target.email.value;
+    const message = e.target.message.value;
+  
+    // Check if any of the form fields are empty
+    if (!name || !email || !message) {
+      alert('Please fill in all the fields');
+      return;
+    }
+  
+    emailjs
+      .send('service_j9syosu', 'template_y3xwvpb', {
+        from_name: name,
+        from_email: email,
+        message: message,
+      }, 'MkEHryb1TJfzXGljg')
       .then((result) => {
         console.log(result.text);
-        alert('Mesajınız başarıyla gönderildi!');
-      }, (error) =>{
-        console.log("hata mesajı...")
-      } );
+        alert('Your message has been successfully sent!');
+      })
+      .catch((error) => {
+        console.log("Error:", error);
+        return; // Stop further execution
+      });
   
-    // Gönderildikten sonra formu temizle
+    // Reset the form after sending
     e.target.reset();
   }
+  
+  
   
 
   return (
